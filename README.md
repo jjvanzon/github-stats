@@ -1,5 +1,22 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+![](https://raw.githubusercontent.com/jjvanzon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/jjvanzon/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<!-- 
+Settings for GitHub stats:
+EXCLUDED: jjvanzon/JJ,jjvanzon/SgmlReaderOld
+EXCLUDE_FORKED_REPOS: true
+NPersist:
+- is in the JJ.Framework\Archive folder
+- and the JJ.TryThingsOut repo. 
+- Counted LOC in Visual Studio 2022:
+- 20,000 LOC a pop.
+-->
+
+-----
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
